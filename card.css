@@ -1,0 +1,36 @@
+body{
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.avatar{
+    height: 206px;
+    width:200px;
+}
+.card{
+    width:400px;
+    padding: 20px;
+    display:flex;
+    justify-content:space-around;
+    margin: 0 auto;
+    background-color:rgb(212, 228, 238);
+    text-align:center;
+    border-bottom: 3px solid purple;
+    background-image: url('../images/bg.png');
+    border-radius: 15px;
+}
+.info{
+
+    padding:20px;
+}
+.italic{
+    font-style:italic;
+}
+.border{
+    border: 1px dotted blue;
+    border-radius:10px;
+}
+h4{
+    text-align:center;
+}
